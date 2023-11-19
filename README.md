@@ -13,6 +13,8 @@ Will also produce an output of an example key somewhe in the middle of the file
 # Running app
 
 `npx ts-node app.ts [filename] [searchkey]`
+example
+`npx ts-node app.ts sane-test.txt 200`
 
 # Contents
 * app.ts - the search part of application
